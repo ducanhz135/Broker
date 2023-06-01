@@ -1,0 +1,15 @@
+C:\D\Broker\Subscriber\bin\Debug\net6.0\Subscriber.exe
+C:\D\Broker\Subscriber\bin\Debug\net6.0\Subscriber.deps.json
+C:\D\Broker\Subscriber\bin\Debug\net6.0\Subscriber.runtimeconfig.json
+C:\D\Broker\Subscriber\bin\Debug\net6.0\Subscriber.dll
+C:\D\Broker\Subscriber\bin\Debug\net6.0\ref\Subscriber.dll
+C:\D\Broker\Subscriber\bin\Debug\net6.0\Subscriber.pdb
+C:\D\Broker\Subscriber\obj\Debug\net6.0\Subscriber.csproj.AssemblyReference.cache
+C:\D\Broker\Subscriber\obj\Debug\net6.0\Subscriber.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\Broker\Subscriber\obj\Debug\net6.0\Subscriber.AssemblyInfoInputs.cache
+C:\D\Broker\Subscriber\obj\Debug\net6.0\Subscriber.AssemblyInfo.cs
+C:\D\Broker\Subscriber\obj\Debug\net6.0\Subscriber.csproj.CoreCompileInputs.cache
+C:\D\Broker\Subscriber\obj\Debug\net6.0\Subscriber.dll
+C:\D\Broker\Subscriber\obj\Debug\net6.0\ref\Subscriber.dll
+C:\D\Broker\Subscriber\obj\Debug\net6.0\Subscriber.pdb
+C:\D\Broker\Subscriber\obj\Debug\net6.0\Subscriber.genruntimeconfig.cache
